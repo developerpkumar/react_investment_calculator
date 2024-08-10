@@ -1,0 +1,12 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  color: green;
+  font-size: 25px;
+  font-weight: semibold;
+  text-transform: uppercase;
+  font-family: cursive;
+}
